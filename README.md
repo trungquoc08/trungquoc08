@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/trungquoc08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trungquoc08" height="30" width="40" /></a>
-<a href="[https://fb.com/trung quoc](https://www.facebook.com/profile.php?id=100063503451095)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trung quoc" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100063503451095" target="blank"><img align="center" src="https://www.facebook.com/profile.php?id=100063503451095" alt="trung quoc" height="30" width="40" /></a>
 <a href="https://discord.gg/_yoimiyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_yoimiyaa" height="30" width="40" /></a>
 </p>
 
