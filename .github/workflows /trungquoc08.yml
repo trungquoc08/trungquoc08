@@ -49,3 +49,6 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
+                        - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
