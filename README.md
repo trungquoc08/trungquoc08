@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm trquocc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align= " left> <heft src:https://www.google.com/url?sa=i&url=https%3A%2F%2Fids.ac.id%2Fbelajar-coding-untuk-programmer-pemula%2F&psig=AOvVaw3RXC7cy2OLs5KOMXTNZ61y&ust=1695866339082000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiJ_MnYyYEDFQAAAAAdAAAAABAT>
+<img align="right"> alt="coding" width="400" src:https://www.google.com/url?sa=i&url=https%3A%2F%2Fids.ac.id%2Fbelajar-coding-untuk-programmer-pemula%2F&psig=AOvVaw3RXC7cy2OLs5KOMXTNZ61y&ust=1695866339082000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiJ_MnYyYEDFQAAAAAdAAAAABAT>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungquoc08&label=Profile%20views&color=0e75b6&style=flat" alt="trungquoc08" /> </p>
 
