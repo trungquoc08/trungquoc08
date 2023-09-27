@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm trquocc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="coding" width="400" src:[https://www.google.com/url?sa=i&url=https%3A%2F%2Fids.ac.id%2Fbelajar-coding-untuk-programmer-pemula%2F&psig=AOvVaw3RXC7cy2OLs5KOMXTNZ61y&ust=1695866339082000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiJ_MnYyYEDFQAAAAAdAAAAABAT](https://ids.ac.id/wp-content/uploads/2022/11/belajar-coding-2.jpg)>
-
+<img align="right" alt="coding" width="400" src:"https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/384467385_644834101109912_5918285258572792616_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Br08eYB7onYAX90zX3J&_nc_ht=scontent.fsgn5-10.fna&oh=03_AdSOmFfii9ZGmSLXaXal4wytScM7ipocQTsPDGwORlxE7w&oe=653B28EA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungquoc08&label=Profile%20views&color=0e75b6&style=flat" alt="trungquoc08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trungquoc08" alt="trungquoc08" /></a> </p>
